@@ -1,4 +1,4 @@
-👋 Hi, I’m FiZZ (@codeanony)
+👋 Hi, I’m ASH (@codeanony)
 👀 I’m interested in cracking the code
 🌱 I’m currently learning React
 📫 Telegram: @ashopftw
